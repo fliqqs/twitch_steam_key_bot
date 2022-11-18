@@ -1,0 +1,18 @@
+{
+  "name": "keybot.js",
+  "version": "1.0.0",
+  "description": "Bot to scrape for keys",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "open": "^8.4.0",
+    "puppeteer": "^18.0.4",
+    "steam-user": "^4.25.0",
+    "tmi.js": "^1.8.5"
+  }
+}
